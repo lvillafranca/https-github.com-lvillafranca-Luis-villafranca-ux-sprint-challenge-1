@@ -1,0 +1,30 @@
+nav{
+    flex-direction: column;    
+}
+nav a{
+    background-color: #8795A2;
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 50px;
+    color: white; 
+}
+
+.Sign-Up-Section{
+    width: 300px;
+    height: 450px;
+    background: #FFFFFf;
+    Display: flex;
+    Flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.Form-field{
+    flex-direction: column;
+    justify-content: center;
+}
+
+
